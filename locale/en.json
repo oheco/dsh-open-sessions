@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Open Sessions",
+    "description": "Lists the sessions you opened above the sidebar workspaces. Opened sessions stay loaded, so switching between them is instant; close an entry to release it."
+  }
+}

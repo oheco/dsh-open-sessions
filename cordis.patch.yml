@@ -1,0 +1,4 @@
+- insert:
+    - id: oheco-open-sessions
+      name: '@oheco/dsh-open-sessions'
+      config: {}
